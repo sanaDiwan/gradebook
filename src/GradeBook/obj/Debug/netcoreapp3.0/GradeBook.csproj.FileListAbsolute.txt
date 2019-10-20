@@ -1,0 +1,11 @@
+C:\pluralsight_exercises\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.exe
+C:\pluralsight_exercises\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.deps.json
+C:\pluralsight_exercises\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.json
+C:\pluralsight_exercises\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.dev.json
+C:\pluralsight_exercises\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.dll
+C:\pluralsight_exercises\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.pdb
+C:\pluralsight_exercises\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.csprojAssemblyReference.cache
+C:\pluralsight_exercises\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfoInputs.cache
+C:\pluralsight_exercises\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfo.cs
+C:\pluralsight_exercises\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.dll
+C:\pluralsight_exercises\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.pdb
